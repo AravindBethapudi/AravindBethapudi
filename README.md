@@ -1,5 +1,4 @@
-Hi there! I'm Aravind, an aspiring Data Scientist with a passion for Python programming, machine learning, and data visualization. Currently pursuing my Master’s in Data Science at the University of North Texas, I have a strong foundation in statistical analysis and data modeling.
-
+Hi there! I'm a data scientist with over 4 years of experience, skilled in building and deploying machine learning models, statistical analysis, and predictive analytics. Proficient in Python, R, and SQL, with expertise in libraries like Pandas, NumPy, Scikit-learn, and TensorFlow. Adept at collaborating in Agile environments to deliver data-driven solutions that align with business goals. Specializes in developing models like Random Forest, Logistic Regression, and XGBoost, alongside deep learning frameworks. Extensive experience in data visualization using Tableau and Power BI and deploying models on cloud platforms such as AWS and Azure.
 What I Do
 Machine Learning: Expertise in Supervised Learning (Linear Regression, Logistic Regression, Decision Tree), Support Vector Machines, K-nearest neighbors, Annoy, and Auto Encoders.
 Big Data: Skilled in SQL and relational databases.
